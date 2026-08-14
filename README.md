@@ -54,7 +54,7 @@ Basic-Network-Sniffer/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Sreeram2611/Basic-Network-Sniffer.git
+git clone https://github.com/selva2102/Basic-Network-Sniffer.git
 ```
 
 Navigate into the project folder:
