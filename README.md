@@ -122,7 +122,7 @@ Do not use packet sniffing tools on networks that you do not own or do not have 
 
 ## 👨‍💻 Author
 
-**Sreeram S P**
+**Selvasudharsan S**
 
 B.Tech CSE (Cyber Security)
 
